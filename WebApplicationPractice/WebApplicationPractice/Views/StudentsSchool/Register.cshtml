@@ -1,0 +1,26 @@
+﻿
+
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register</h2>
+
+<form method="post">
+    <input type="text" name="FullName" value="@Model.FullName" class="form form-control" placeholder="Full name" />
+    <span class="text-danger">@Html.ValidationMessage("FullName")</span>
+
+    <input type="text" name="StudentId" value="@Model.StudentId" class="form form-control" placeholder="Student ID" />
+    <span class="text-danger">@Html.ValidationMessage("StudentId")</span>
+
+    <input type="email" name="Email" value="@Model.Email" class="form form-control" placeholder="Email" />
+    <span class="text-danger">@Html.ValidationMessage("Email")</span>
+
+    <input type="date" name="Age" value="@Model.Age" class="form form-control" placeholder="Birthdate" />
+    <span class="text-danger">@Html.ValidationMessage("Age")</span>
+
+    <input type="date" name="EnrollmentDate" value="@Model.EnrollmentDate" class="form form-control" placeholder="Enrollment Date" />
+    <span class="text-danger">@Html.ValidationMessage("EnrollmentDate")</span>
+
+    <input type="submit" value="Submit" />
+</form>

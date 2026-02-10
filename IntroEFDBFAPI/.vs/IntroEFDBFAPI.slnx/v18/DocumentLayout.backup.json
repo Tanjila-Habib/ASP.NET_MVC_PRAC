@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\9th Semester\\Advanced programming with .net\\Lab\\IntroEFDBFAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B317BB5-E8FD-EBBC-6001-3BFD813F5F4D}|IntroEFDBFAPI\\IntroEFDBFAPI.csproj|d:\\9th semester\\advanced programming with .net\\lab\\introefdbfapi\\introefdbfapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B317BB5-E8FD-EBBC-6001-3BFD813F5F4D}|IntroEFDBFAPI\\IntroEFDBFAPI.csproj|solutionrelative:introefdbfapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B317BB5-E8FD-EBBC-6001-3BFD813F5F4D}|IntroEFDBFAPI\\IntroEFDBFAPI.csproj|d:\\9th semester\\advanced programming with .net\\lab\\introefdbfapi\\introefdbfapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B317BB5-E8FD-EBBC-6001-3BFD813F5F4D}|IntroEFDBFAPI\\IntroEFDBFAPI.csproj|solutionrelative:introefdbfapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B317BB5-E8FD-EBBC-6001-3BFD813F5F4D}|IntroEFDBFAPI\\IntroEFDBFAPI.csproj|d:\\9th semester\\advanced programming with .net\\lab\\introefdbfapi\\introefdbfapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B317BB5-E8FD-EBBC-6001-3BFD813F5F4D}|IntroEFDBFAPI\\IntroEFDBFAPI.csproj|solutionrelative:introefdbfapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\9th Semester\\Advanced programming with .net\\Lab\\IntroEFDBFAPI\\IntroEFDBFAPI\\Program.cs",
+              "RelativeDocumentMoniker": "IntroEFDBFAPI\\Program.cs",
+              "ToolTip": "D:\\9th Semester\\Advanced programming with .net\\Lab\\IntroEFDBFAPI\\IntroEFDBFAPI\\Program.cs",
+              "RelativeToolTip": "IntroEFDBFAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T17:27:53.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\9th Semester\\Advanced programming with .net\\Lab\\IntroEFDBFAPI\\IntroEFDBFAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "IntroEFDBFAPI\\appsettings.json",
+              "ToolTip": "D:\\9th Semester\\Advanced programming with .net\\Lab\\IntroEFDBFAPI\\IntroEFDBFAPI\\appsettings.json",
+              "RelativeToolTip": "IntroEFDBFAPI\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-21T17:01:01.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\9th Semester\\Advanced programming with .net\\Lab\\IntroEFDBFAPI\\IntroEFDBFAPI\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "IntroEFDBFAPI\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\9th Semester\\Advanced programming with .net\\Lab\\IntroEFDBFAPI\\IntroEFDBFAPI\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "IntroEFDBFAPI\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T16:57:25.731Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
