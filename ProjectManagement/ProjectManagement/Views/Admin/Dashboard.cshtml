@@ -1,0 +1,34 @@
+﻿
+
+<h2>Admin Dashboard</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Order ID</th>
+        <th>Customer ID</th>
+        <th>Amount</th>
+        <th>Status</th>
+        <th>Action</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.CusId</td>
+            <td>@item.Amount</td>
+            <td>@item.Status</td>
+            <td>
+                @if (item.Status == "Ordered")
+                {
+                    <a href="/Admin/Accept/@item.Id" class="btn btn-success btn-sm">
+                        Accept
+                    </a>
+                    <a href="/Admin/Decline/@item.Id" class="btn btn-danger btn-sm">
+                        Decline
+                    </a>
+                }
+            </td>
+        </tr>
+    }
+</table>

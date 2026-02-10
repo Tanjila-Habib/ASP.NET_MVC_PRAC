@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\9th Semester\\Advanced programming with .net\\Lab\\FormValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{313485FF-F9D5-41C4-A305-77209723BFB3}|FormValidation\\FormValidation.csproj|D:\\9th Semester\\Advanced programming with .net\\Lab\\FormValidation\\formvalidation\\views\\formhandling\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{313485FF-F9D5-41C4-A305-77209723BFB3}|FormValidation\\FormValidation.csproj|solutionrelative:formvalidation\\views\\formhandling\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{313485FF-F9D5-41C4-A305-77209723BFB3}|FormValidation\\FormValidation.csproj|D:\\9th Semester\\Advanced programming with .net\\Lab\\FormValidation\\formvalidation\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{313485FF-F9D5-41C4-A305-77209723BFB3}|FormValidation\\FormValidation.csproj|solutionrelative:formvalidation\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{313485FF-F9D5-41C4-A305-77209723BFB3}|FormValidation\\FormValidation.csproj|D:\\9th Semester\\Advanced programming with .net\\Lab\\FormValidation\\formvalidation\\models\\customattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{313485FF-F9D5-41C4-A305-77209723BFB3}|FormValidation\\FormValidation.csproj|solutionrelative:formvalidation\\models\\customattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{313485FF-F9D5-41C4-A305-77209723BFB3}|FormValidation\\FormValidation.csproj|D:\\9th Semester\\Advanced programming with .net\\Lab\\FormValidation\\formvalidation\\controllers\\formhandlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{313485FF-F9D5-41C4-A305-77209723BFB3}|FormValidation\\FormValidation.csproj|solutionrelative:formvalidation\\controllers\\formhandlingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{313485FF-F9D5-41C4-A305-77209723BFB3}|FormValidation\\FormValidation.csproj|d:\\9th semester\\advanced programming with .net\\lab\\formvalidation\\formvalidation\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{313485FF-F9D5-41C4-A305-77209723BFB3}|FormValidation\\FormValidation.csproj|solutionrelative:formvalidation\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\9th Semester\\Advanced programming with .net\\Lab\\FormValidation\\FormValidation\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "FormValidation\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\9th Semester\\Advanced programming with .net\\Lab\\FormValidation\\FormValidation\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "FormValidation\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T01:42:06.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomAttribute.cs",
+              "DocumentMoniker": "D:\\9th Semester\\Advanced programming with .net\\Lab\\FormValidation\\FormValidation\\Models\\CustomAttribute.cs",
+              "RelativeDocumentMoniker": "FormValidation\\Models\\CustomAttribute.cs",
+              "ToolTip": "D:\\9th Semester\\Advanced programming with .net\\Lab\\FormValidation\\FormValidation\\Models\\CustomAttribute.cs",
+              "RelativeToolTip": "FormValidation\\Models\\CustomAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T05:52:07.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\9th Semester\\Advanced programming with .net\\Lab\\FormValidation\\FormValidation\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "FormValidation\\Models\\Register.cs",
+              "ToolTip": "D:\\9th Semester\\Advanced programming with .net\\Lab\\FormValidation\\FormValidation\\Models\\Register.cs",
+              "RelativeToolTip": "FormValidation\\Models\\Register.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:40:48.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\9th Semester\\Advanced programming with .net\\Lab\\FormValidation\\FormValidation\\Views\\FormHandling\\Register.cshtml",
+              "RelativeDocumentMoniker": "FormValidation\\Views\\FormHandling\\Register.cshtml",
+              "ToolTip": "D:\\9th Semester\\Advanced programming with .net\\Lab\\FormValidation\\FormValidation\\Views\\FormHandling\\Register.cshtml",
+              "RelativeToolTip": "FormValidation\\Views\\FormHandling\\Register.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T04:40:34.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormHandlingController.cs",
+              "DocumentMoniker": "D:\\9th Semester\\Advanced programming with .net\\Lab\\FormValidation\\FormValidation\\Controllers\\FormHandlingController.cs",
+              "RelativeDocumentMoniker": "FormValidation\\Controllers\\FormHandlingController.cs",
+              "ToolTip": "D:\\9th Semester\\Advanced programming with .net\\Lab\\FormValidation\\FormValidation\\Controllers\\FormHandlingController.cs",
+              "RelativeToolTip": "FormValidation\\Controllers\\FormHandlingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:40:05.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

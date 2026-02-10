@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Customer";
+}
+
+
+@if (TempData["Msg"]!=null)
+            {
+                <p class="alert alert-info">@TempData["Msg"]</p>
+            }
+<h2>Customer</h2>
+<a href="/order/myorders" class="btn btn-success">My Orders</a>
+<a href="/dashboard/makeorder" class="btn btn-success">Make Order</a>
