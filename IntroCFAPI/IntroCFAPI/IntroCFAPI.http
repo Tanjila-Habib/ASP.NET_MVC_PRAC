@@ -1,0 +1,6 @@
+@IntroCFAPI_HostAddress = http://localhost:5093
+
+GET {{IntroCFAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
