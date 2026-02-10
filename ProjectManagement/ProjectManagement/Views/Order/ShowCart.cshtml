@@ -1,0 +1,57 @@
+﻿
+
+@{
+    ViewBag.Title = "ShowCart";
+}
+
+<h2>ShowCart</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Qty</th>
+        <th>Unit Total</th>
+        <th>Action</th>
+    </tr>
+
+    @{ decimal total = 0; }
+
+    @foreach (var item in Model)
+    {
+        total += item.Qty * item.Price;
+
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+            <td>
+                <a href="/Order/Decrease/@item.Id" class="btn btn-warning btn-sm">-</a>
+                @item.Qty
+                <a href="/Order/Increase/@item.Id" class="btn btn-success btn-sm">+</a>
+            </td>
+            <td>@(item.Qty * item.Price)</td>
+            <td>
+                <a href="/Order/RemoveFromCart/@item.Id" class="btn btn-danger btn-sm">
+                    Remove
+                </a>
+            </td>
+        </tr>
+    }
+
+    <tr>
+        <th colspan="4">Total</th>
+        <th>@total</th>
+        <th></th>
+    </tr>
+
+    <tr>
+        <td colspan="6">
+            <form method="post" action="/Order/Place">
+                <input type="hidden" name="Total" value="@total" />
+                <input type="submit" value="Place Order" class="btn btn-danger" />
+            </form>
+        </td>
+    </tr>
+</table>

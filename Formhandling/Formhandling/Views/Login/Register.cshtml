@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register</h2>
+
+<form method="post">
+    <input type="text" name="ID" class="form-control" vlaue="@Model.ID"placeholder="ID" />
+    <span class="text-danger">@Html.ValidationMessage("ID")</span>
+    <input type="text" name="Name" class="form-control"value="@Model.Name" placeholder="Name" />
+    <span class="text-danger">@Html.ValidationMessage("Name")</span>
+    <input type="text" name="Email" class="form-control" placeholder="Email" />
+    <span class="text-danger">@Html.ValidationMessage("Email")</span><br/>
+    Gender: <input type="radio" name="Gender" value="Male" /> Male
+    <input type="radio" name="Gender" value="Female" /> Female<br/>
+    <span class="text-danger">@Html.ValidationMessage("Gender")</span><br/>
+    Profession:
+    <select class="form-control"name="Profession">
+    <option disabled selected>--Select--</option>
+    <option>Student</option>
+    <option>Business</option>
+    <option>Job</option>
+        </select>
+    <span class="text-danger">@Html.ValidationMessage("Profession")</span>
+    <br/>
+    Hobbies:
+    <input type="checkbox" name="Hobbies[]" value="Gaming"/>Gaming
+    <input type="checkbox" name="Hobbies[]" value="Sports"/>Sports
+    <input type="checkbox" name="Hobbies[]" value="Traveling"/>Traveling
+    <br/>
+    <span class="text-danger">@Html.ValidationMessage("Hobbies")</span>
+    <br/>
+
+    <input type="submit" value="Register" class="btn btn-primary"/>
+</form>
+
